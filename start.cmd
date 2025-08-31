@@ -1,3 +1,4 @@
 @echo off
 
-python pyarmor.py
+
+python DTMC.py
