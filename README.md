@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://i.ibb.co/hxZsYHQX/dtmc-banner.png">
 </p>
+## DTMC
 **D**on't **T**ouch **M**y **C**ode is a Python obfuscator built for reducing readability for people who don't really know Python (i.e script kiddies)
 
 ## How to install
