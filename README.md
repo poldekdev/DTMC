@@ -13,7 +13,7 @@ python DTMC.py
 (or just use start.cmd on windows)
 ## Diffrence between input and output (obfuscated code)
 You can see some examples of DTMC obfuscation in the [examples](https://github.com/poldekdev/DTMC/tree/main/examples) folder (or just press on the text)
--# The power of obfuscation in these examples is set to 50
+*The power of obfuscation in these examples is set to 50*
 
 ## Want to contribute?
 To contribute just Fork the project, modify the DTMC.py file (or add own examples, whatever you want to commit) and create a PR (Pull Request) [right here](https://github.com/poldekdev/DTMC/pulls)
