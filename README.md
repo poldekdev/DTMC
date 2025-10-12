@@ -1,4 +1,6 @@
-# DTMC
+<p align="center">
+  <img src="https://i.ibb.co/hxZsYHQX/dtmc-banner.png">
+</p>
 **D**on't **T**ouch **M**y **C**ode is a Python obfuscator built for reducing readability for people who don't really know Python (i.e script kiddies)
 
 ## How to install
@@ -20,3 +22,5 @@ To contribute just Fork the project, modify the DTMC.py file (or add own example
 
 ## License
 This project is licensed with a MIT License, which you can see in the [LICENSE](https://github.com/poldekdev/DTMC/blob/main/LICENSE) file
+
+
